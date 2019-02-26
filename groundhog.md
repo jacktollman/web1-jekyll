@@ -1,5 +1,7 @@
 ---
 title: Groundhogs!
+color: Fur
+animal: rodent
 ---
 
 ### The groundhog ponders
