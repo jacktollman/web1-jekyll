@@ -1,7 +1,9 @@
 ---
 layout: page
 date: 2019-01-01
-color: Blue-green
+color: Orange
 ---
 
 Hello there too. Yay.
+
+This is *crazy*!! WOaha.
