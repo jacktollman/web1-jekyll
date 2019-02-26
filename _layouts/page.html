@@ -39,7 +39,7 @@
 		
 	{% for p in site.pages %}
 		{if p.animal=="rodent" %}
-			<a href ="{{p.permalink}}> {{p.title}} </a>
+			<a href ="{{ site.baseur1 }}{{p.permalink}}> {{p.title}} </a>
 		{% endfor %}
 	{% endif %}
 
